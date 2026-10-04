@@ -1,0 +1,26 @@
+@font-face{font-family:'Fredoka';font-weight:300 700;src:url('fonts/Fredoka_700.woff2') format('woff2-variations');font-display:block}
+@font-face{font-family:'Nunito';font-weight:200 900;src:url('fonts/Nunito_700.woff2') format('woff2-variations');font-display:block}
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--ink:#241F1B;--body:#6E645B;--paper:#FFFDF9;
+ --f1bg:#FFE3DA;--f1hd:#FFB7A3;--f1ac:#D0330F;
+ --f2bg:#FFF3D1;--f2hd:#FFD98A;--f2ac:#A85C00;
+ --f3bg:#EDE4FF;--f3hd:#C9B4FF;--f3ac:#6B46E0;
+ --f4bg:#D7F5EC;--f4hd:#96E3CE;--f4ac:#0B7A6E;
+ --f5bg:#DCEDFF;--f5hd:#A6D0F7;--f5ac:#1A6FB5}
+body{background:var(--paper);font-family:Nunito,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased}
+.sheet{background:var(--paper);position:relative;overflow:hidden}
+.blk{background:var(--bg);border-radius:var(--r);overflow:hidden;break-inside:avoid;display:flex;flex-direction:column}
+.blk .bh{background:var(--hd);padding:var(--hp) var(--cp);display:flex;justify-content:space-between;align-items:baseline}
+.blk .bt{font-family:Fredoka,sans-serif;font-weight:600;font-size:var(--h);color:var(--ink);line-height:1.12}
+.blk .be{font-family:Nunito,sans-serif;font-weight:700;font-size:var(--he);color:var(--ac);opacity:.9}
+.blk table{width:100%;border-collapse:collapse}
+.blk th{text-align:left;font-weight:600;font-size:var(--ps);color:var(--body);padding:var(--rp) var(--cp);
+  width:var(--pw);white-space:nowrap}
+.blk td{font-weight:700;font-size:var(--f);color:var(--ink);padding:var(--rp) var(--cp);white-space:nowrap}
+.blk tr+tr th,.blk tr+tr td{border-top:1.5px solid rgba(36,31,27,.075)}
+.hl{color:var(--ac);font-weight:800;border-bottom:.14em solid var(--ac);padding-bottom:.02em}
+.pill{display:inline-flex;align-items:center;gap:var(--gp);background:var(--hd);color:var(--ink);
+  border-radius:999px;padding:var(--pp);font-family:Nunito,sans-serif;font-weight:800;
+  font-size:var(--pf);text-transform:uppercase;letter-spacing:.11em;white-space:nowrap}
+.ft{display:flex;justify-content:space-between;color:#A79C91;font-weight:700;font-size:var(--ff);
+  border-top:2px solid rgba(36,31,27,.09);padding-top:var(--fp)}

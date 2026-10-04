@@ -1,0 +1,2384 @@
+{
+ "lang": "es",
+ "source": "verbecc",
+ "verbs": [
+  {
+   "verb": "hablar",
+   "template": "cort:ar",
+   "stem": "habl",
+   "predicted": false,
+   "groups": [
+    {
+     "group": "Indicative",
+     "tenses": [
+      {
+       "en": "Present",
+       "es": "Presente",
+       "mood": "indicativo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablo",
+         "raw": "yo hablo"
+        },
+        {
+         "person": "tú",
+         "form": "hablas",
+         "raw": "tú hablas"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habla",
+         "raw": "él habla"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablamos",
+         "raw": "nosotros hablamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "habláis",
+         "raw": "vosotros habláis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablan",
+         "raw": "ellos hablan"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect",
+       "es": "Pretérito imperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-imperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablaba",
+         "raw": "yo hablaba"
+        },
+        {
+         "person": "tú",
+         "form": "hablabas",
+         "raw": "tú hablabas"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablaba",
+         "raw": "él hablaba"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablábamos",
+         "raw": "nosotros hablábamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablabais",
+         "raw": "vosotros hablabais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablaban",
+         "raw": "ellos hablaban"
+        }
+       ]
+      },
+      {
+       "en": "Preterite",
+       "es": "Pretérito perfecto simple",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-simple",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablé",
+         "raw": "yo hablé"
+        },
+        {
+         "person": "tú",
+         "form": "hablaste",
+         "raw": "tú hablaste"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habló",
+         "raw": "él habló"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablamos",
+         "raw": "nosotros hablamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablasteis",
+         "raw": "vosotros hablasteis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablaron",
+         "raw": "ellos hablaron"
+        }
+       ]
+      },
+      {
+       "en": "Future",
+       "es": "Futuro",
+       "mood": "indicativo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablaré",
+         "raw": "yo hablaré"
+        },
+        {
+         "person": "tú",
+         "form": "hablarás",
+         "raw": "tú hablarás"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablará",
+         "raw": "él hablará"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablaremos",
+         "raw": "nosotros hablaremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablaréis",
+         "raw": "vosotros hablaréis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablarán",
+         "raw": "ellos hablarán"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect",
+       "es": "Pretérito perfecto compuesto",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-compuesto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "he hablado",
+         "raw": "yo he hablado"
+        },
+        {
+         "person": "tú",
+         "form": "has hablado",
+         "raw": "tú has hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "ha hablado",
+         "raw": "él ha hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hemos hablado",
+         "raw": "nosotros hemos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "habéis hablado",
+         "raw": "vosotros habéis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "han hablado",
+         "raw": "ellos han hablado"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect",
+       "es": "Pluscuamperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-pluscuamperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "había hablado",
+         "raw": "yo había hablado"
+        },
+        {
+         "person": "tú",
+         "form": "habías hablado",
+         "raw": "tú habías hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "había hablado",
+         "raw": "él había hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "habíamos hablado",
+         "raw": "nosotros habíamos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "habíais hablado",
+         "raw": "vosotros habíais hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habían hablado",
+         "raw": "ellos habían hablado"
+        }
+       ]
+      },
+      {
+       "en": "Preterite Perfect",
+       "es": "Pretérito anterior",
+       "mood": "indicativo",
+       "key": "pretérito-anterior",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hube hablado",
+         "raw": "yo hube hablado"
+        },
+        {
+         "person": "tú",
+         "form": "hubiste hablado",
+         "raw": "tú hubiste hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubo hablado",
+         "raw": "él hubo hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubimos hablado",
+         "raw": "nosotros hubimos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubisteis hablado",
+         "raw": "vosotros hubisteis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieron hablado",
+         "raw": "ellos hubieron hablado"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect",
+       "es": "Futuro perfecto",
+       "mood": "indicativo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habré hablado",
+         "raw": "yo habré hablado"
+        },
+        {
+         "person": "tú",
+         "form": "habrás hablado",
+         "raw": "tú habrás hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habrá hablado",
+         "raw": "él habrá hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "habremos hablado",
+         "raw": "nosotros habremos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "habréis hablado",
+         "raw": "vosotros habréis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrán hablado",
+         "raw": "ellos habrán hablado"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Conditional",
+     "tenses": [
+      {
+       "en": "Conditional",
+       "es": "Condicional simple",
+       "mood": "condicional",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablaría",
+         "raw": "yo hablaría"
+        },
+        {
+         "person": "tú",
+         "form": "hablarías",
+         "raw": "tú hablarías"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablaría",
+         "raw": "él hablaría"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablaríamos",
+         "raw": "nosotros hablaríamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablaríais",
+         "raw": "vosotros hablaríais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablarían",
+         "raw": "ellos hablarían"
+        }
+       ]
+      },
+      {
+       "en": "Conditional Perfect",
+       "es": "Condicional perfecto",
+       "mood": "condicional",
+       "key": "perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habría hablado",
+         "raw": "yo habría hablado"
+        },
+        {
+         "person": "tú",
+         "form": "habrías hablado",
+         "raw": "tú habrías hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habría hablado",
+         "raw": "él habría hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "habríamos hablado",
+         "raw": "nosotros habríamos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "habríais hablado",
+         "raw": "vosotros habríais hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrían hablado",
+         "raw": "ellos habrían hablado"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Subjunctive",
+     "tenses": [
+      {
+       "en": "Present Subjunctive",
+       "es": "Presente",
+       "mood": "subjuntivo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hable",
+         "raw": "yo hable"
+        },
+        {
+         "person": "tú",
+         "form": "hables",
+         "raw": "tú hables"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hable",
+         "raw": "él hable"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablemos",
+         "raw": "nosotros hablemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "habléis",
+         "raw": "vosotros habléis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablen",
+         "raw": "ellos hablen"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-ra)",
+       "es": "Imperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablara",
+         "raw": "yo hablara"
+        },
+        {
+         "person": "tú",
+         "form": "hablaras",
+         "raw": "tú hablaras"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablara",
+         "raw": "él hablara"
+        },
+        {
+         "person": "nosotros",
+         "form": "habláramos",
+         "raw": "nosotros habláramos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablarais",
+         "raw": "vosotros hablarais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablaran",
+         "raw": "ellos hablaran"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-se)",
+       "es": "Imperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablase",
+         "raw": "yo hablase"
+        },
+        {
+         "person": "tú",
+         "form": "hablases",
+         "raw": "tú hablases"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablase",
+         "raw": "él hablase"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablásemos",
+         "raw": "nosotros hablásemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablaseis",
+         "raw": "vosotros hablaseis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablasen",
+         "raw": "ellos hablasen"
+        }
+       ]
+      },
+      {
+       "en": "Future Subjunctive",
+       "es": "Futuro",
+       "mood": "subjuntivo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hablare",
+         "raw": "yo hablare"
+        },
+        {
+         "person": "tú",
+         "form": "hablares",
+         "raw": "tú hablares"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hablare",
+         "raw": "él hablare"
+        },
+        {
+         "person": "nosotros",
+         "form": "habláremos",
+         "raw": "nosotros habláremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablareis",
+         "raw": "vosotros hablareis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hablaren",
+         "raw": "ellos hablaren"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect Subj.",
+       "es": "Pretérito perfecto",
+       "mood": "subjuntivo",
+       "key": "pretérito-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "haya hablado",
+         "raw": "yo haya hablado"
+        },
+        {
+         "person": "tú",
+         "form": "hayas hablado",
+         "raw": "tú hayas hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "haya hablado",
+         "raw": "él haya hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hayamos hablado",
+         "raw": "nosotros hayamos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "hayáis hablado",
+         "raw": "vosotros hayáis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hayan hablado",
+         "raw": "ellos hayan hablado"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-ra)",
+       "es": "Pluscuamperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiera hablado",
+         "raw": "yo hubiera hablado"
+        },
+        {
+         "person": "tú",
+         "form": "hubieras hablado",
+         "raw": "tú hubieras hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiera hablado",
+         "raw": "él hubiera hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéramos hablado",
+         "raw": "nosotros hubiéramos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubierais hablado",
+         "raw": "vosotros hubierais hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieran hablado",
+         "raw": "ellos hubieran hablado"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-se)",
+       "es": "Pluscuamperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiese hablado",
+         "raw": "yo hubiese hablado"
+        },
+        {
+         "person": "tú",
+         "form": "hubieses hablado",
+         "raw": "tú hubieses hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiese hablado",
+         "raw": "él hubiese hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiésemos hablado",
+         "raw": "nosotros hubiésemos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubieseis hablado",
+         "raw": "vosotros hubieseis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubiesen hablado",
+         "raw": "ellos hubiesen hablado"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect Subj.",
+       "es": "Futuro perfecto",
+       "mood": "subjuntivo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiere hablado",
+         "raw": "yo hubiere hablado"
+        },
+        {
+         "person": "tú",
+         "form": "hubieres hablado",
+         "raw": "tú hubieres hablado"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiere hablado",
+         "raw": "él hubiere hablado"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéremos hablado",
+         "raw": "nosotros hubiéremos hablado"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubiereis hablado",
+         "raw": "vosotros hubiereis hablado"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieren hablado",
+         "raw": "ellos hubieren hablado"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Imperative",
+     "tenses": [
+      {
+       "en": "Affirmative Command",
+       "es": "Imperativo afirmativo",
+       "mood": "imperativo",
+       "key": "afirmativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "habla",
+         "raw": "habla"
+        },
+        {
+         "person": "Ud.",
+         "form": "hable",
+         "raw": "hable"
+        },
+        {
+         "person": "nosotros",
+         "form": "hablemos",
+         "raw": "hablemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "hablad",
+         "raw": "hablad"
+        },
+        {
+         "person": "Uds.",
+         "form": "hablen",
+         "raw": "hablen"
+        }
+       ]
+      },
+      {
+       "en": "Negative Command",
+       "es": "Imperativo negativo",
+       "mood": "imperativo",
+       "key": "negativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "no hables",
+         "raw": "no hables"
+        },
+        {
+         "person": "Ud.",
+         "form": "no hable",
+         "raw": "no hable"
+        },
+        {
+         "person": "nosotros",
+         "form": "no hablemos",
+         "raw": "no hablemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "no habléis",
+         "raw": "no habléis"
+        },
+        {
+         "person": "Uds.",
+         "form": "no hablen",
+         "raw": "no hablen"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "voseo": [
+    {
+     "en": "Present",
+     "es": "Presente",
+     "tu": "hablas",
+     "vos": "hablás"
+    },
+    {
+     "en": "Affirmative Command",
+     "es": "Imperativo afirmativo",
+     "tu": "habla",
+     "vos": "hablá"
+    }
+   ]
+  },
+  {
+   "verb": "comer",
+   "template": "deb:er",
+   "stem": "com",
+   "predicted": false,
+   "groups": [
+    {
+     "group": "Indicative",
+     "tenses": [
+      {
+       "en": "Present",
+       "es": "Presente",
+       "mood": "indicativo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "como",
+         "raw": "yo como"
+        },
+        {
+         "person": "tú",
+         "form": "comes",
+         "raw": "tú comes"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "come",
+         "raw": "él come"
+        },
+        {
+         "person": "nosotros",
+         "form": "comemos",
+         "raw": "nosotros comemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "coméis",
+         "raw": "vosotros coméis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comen",
+         "raw": "ellos comen"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect",
+       "es": "Pretérito imperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-imperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comía",
+         "raw": "yo comía"
+        },
+        {
+         "person": "tú",
+         "form": "comías",
+         "raw": "tú comías"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comía",
+         "raw": "él comía"
+        },
+        {
+         "person": "nosotros",
+         "form": "comíamos",
+         "raw": "nosotros comíamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comíais",
+         "raw": "vosotros comíais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comían",
+         "raw": "ellos comían"
+        }
+       ]
+      },
+      {
+       "en": "Preterite",
+       "es": "Pretérito perfecto simple",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-simple",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comí",
+         "raw": "yo comí"
+        },
+        {
+         "person": "tú",
+         "form": "comiste",
+         "raw": "tú comiste"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comió",
+         "raw": "él comió"
+        },
+        {
+         "person": "nosotros",
+         "form": "comimos",
+         "raw": "nosotros comimos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comisteis",
+         "raw": "vosotros comisteis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comieron",
+         "raw": "ellos comieron"
+        }
+       ]
+      },
+      {
+       "en": "Future",
+       "es": "Futuro",
+       "mood": "indicativo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comeré",
+         "raw": "yo comeré"
+        },
+        {
+         "person": "tú",
+         "form": "comerás",
+         "raw": "tú comerás"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comerá",
+         "raw": "él comerá"
+        },
+        {
+         "person": "nosotros",
+         "form": "comeremos",
+         "raw": "nosotros comeremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comeréis",
+         "raw": "vosotros comeréis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comerán",
+         "raw": "ellos comerán"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect",
+       "es": "Pretérito perfecto compuesto",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-compuesto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "he comido",
+         "raw": "yo he comido"
+        },
+        {
+         "person": "tú",
+         "form": "has comido",
+         "raw": "tú has comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "ha comido",
+         "raw": "él ha comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hemos comido",
+         "raw": "nosotros hemos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habéis comido",
+         "raw": "vosotros habéis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "han comido",
+         "raw": "ellos han comido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect",
+       "es": "Pluscuamperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-pluscuamperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "había comido",
+         "raw": "yo había comido"
+        },
+        {
+         "person": "tú",
+         "form": "habías comido",
+         "raw": "tú habías comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "había comido",
+         "raw": "él había comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habíamos comido",
+         "raw": "nosotros habíamos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habíais comido",
+         "raw": "vosotros habíais comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habían comido",
+         "raw": "ellos habían comido"
+        }
+       ]
+      },
+      {
+       "en": "Preterite Perfect",
+       "es": "Pretérito anterior",
+       "mood": "indicativo",
+       "key": "pretérito-anterior",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hube comido",
+         "raw": "yo hube comido"
+        },
+        {
+         "person": "tú",
+         "form": "hubiste comido",
+         "raw": "tú hubiste comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubo comido",
+         "raw": "él hubo comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubimos comido",
+         "raw": "nosotros hubimos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubisteis comido",
+         "raw": "vosotros hubisteis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieron comido",
+         "raw": "ellos hubieron comido"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect",
+       "es": "Futuro perfecto",
+       "mood": "indicativo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habré comido",
+         "raw": "yo habré comido"
+        },
+        {
+         "person": "tú",
+         "form": "habrás comido",
+         "raw": "tú habrás comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habrá comido",
+         "raw": "él habrá comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habremos comido",
+         "raw": "nosotros habremos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habréis comido",
+         "raw": "vosotros habréis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrán comido",
+         "raw": "ellos habrán comido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Conditional",
+     "tenses": [
+      {
+       "en": "Conditional",
+       "es": "Condicional simple",
+       "mood": "condicional",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comería",
+         "raw": "yo comería"
+        },
+        {
+         "person": "tú",
+         "form": "comerías",
+         "raw": "tú comerías"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comería",
+         "raw": "él comería"
+        },
+        {
+         "person": "nosotros",
+         "form": "comeríamos",
+         "raw": "nosotros comeríamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comeríais",
+         "raw": "vosotros comeríais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comerían",
+         "raw": "ellos comerían"
+        }
+       ]
+      },
+      {
+       "en": "Conditional Perfect",
+       "es": "Condicional perfecto",
+       "mood": "condicional",
+       "key": "perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habría comido",
+         "raw": "yo habría comido"
+        },
+        {
+         "person": "tú",
+         "form": "habrías comido",
+         "raw": "tú habrías comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habría comido",
+         "raw": "él habría comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habríamos comido",
+         "raw": "nosotros habríamos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habríais comido",
+         "raw": "vosotros habríais comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrían comido",
+         "raw": "ellos habrían comido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Subjunctive",
+     "tenses": [
+      {
+       "en": "Present Subjunctive",
+       "es": "Presente",
+       "mood": "subjuntivo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "coma",
+         "raw": "yo coma"
+        },
+        {
+         "person": "tú",
+         "form": "comas",
+         "raw": "tú comas"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "coma",
+         "raw": "él coma"
+        },
+        {
+         "person": "nosotros",
+         "form": "comamos",
+         "raw": "nosotros comamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comáis",
+         "raw": "vosotros comáis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "coman",
+         "raw": "ellos coman"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-ra)",
+       "es": "Imperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comiera",
+         "raw": "yo comiera"
+        },
+        {
+         "person": "tú",
+         "form": "comieras",
+         "raw": "tú comieras"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comiera",
+         "raw": "él comiera"
+        },
+        {
+         "person": "nosotros",
+         "form": "comiéramos",
+         "raw": "nosotros comiéramos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comierais",
+         "raw": "vosotros comierais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comieran",
+         "raw": "ellos comieran"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-se)",
+       "es": "Imperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comiese",
+         "raw": "yo comiese"
+        },
+        {
+         "person": "tú",
+         "form": "comieses",
+         "raw": "tú comieses"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comiese",
+         "raw": "él comiese"
+        },
+        {
+         "person": "nosotros",
+         "form": "comiésemos",
+         "raw": "nosotros comiésemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comieseis",
+         "raw": "vosotros comieseis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comiesen",
+         "raw": "ellos comiesen"
+        }
+       ]
+      },
+      {
+       "en": "Future Subjunctive",
+       "es": "Futuro",
+       "mood": "subjuntivo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "comiere",
+         "raw": "yo comiere"
+        },
+        {
+         "person": "tú",
+         "form": "comieres",
+         "raw": "tú comieres"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "comiere",
+         "raw": "él comiere"
+        },
+        {
+         "person": "nosotros",
+         "form": "comiéremos",
+         "raw": "nosotros comiéremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comiereis",
+         "raw": "vosotros comiereis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "comieren",
+         "raw": "ellos comieren"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect Subj.",
+       "es": "Pretérito perfecto",
+       "mood": "subjuntivo",
+       "key": "pretérito-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "haya comido",
+         "raw": "yo haya comido"
+        },
+        {
+         "person": "tú",
+         "form": "hayas comido",
+         "raw": "tú hayas comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "haya comido",
+         "raw": "él haya comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hayamos comido",
+         "raw": "nosotros hayamos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hayáis comido",
+         "raw": "vosotros hayáis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hayan comido",
+         "raw": "ellos hayan comido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-ra)",
+       "es": "Pluscuamperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiera comido",
+         "raw": "yo hubiera comido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieras comido",
+         "raw": "tú hubieras comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiera comido",
+         "raw": "él hubiera comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéramos comido",
+         "raw": "nosotros hubiéramos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubierais comido",
+         "raw": "vosotros hubierais comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieran comido",
+         "raw": "ellos hubieran comido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-se)",
+       "es": "Pluscuamperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiese comido",
+         "raw": "yo hubiese comido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieses comido",
+         "raw": "tú hubieses comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiese comido",
+         "raw": "él hubiese comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiésemos comido",
+         "raw": "nosotros hubiésemos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubieseis comido",
+         "raw": "vosotros hubieseis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubiesen comido",
+         "raw": "ellos hubiesen comido"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect Subj.",
+       "es": "Futuro perfecto",
+       "mood": "subjuntivo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiere comido",
+         "raw": "yo hubiere comido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieres comido",
+         "raw": "tú hubieres comido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiere comido",
+         "raw": "él hubiere comido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéremos comido",
+         "raw": "nosotros hubiéremos comido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubiereis comido",
+         "raw": "vosotros hubiereis comido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieren comido",
+         "raw": "ellos hubieren comido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Imperative",
+     "tenses": [
+      {
+       "en": "Affirmative Command",
+       "es": "Imperativo afirmativo",
+       "mood": "imperativo",
+       "key": "afirmativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "come",
+         "raw": "come"
+        },
+        {
+         "person": "Ud.",
+         "form": "coma",
+         "raw": "coma"
+        },
+        {
+         "person": "nosotros",
+         "form": "comamos",
+         "raw": "comamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "comed",
+         "raw": "comed"
+        },
+        {
+         "person": "Uds.",
+         "form": "coman",
+         "raw": "coman"
+        }
+       ]
+      },
+      {
+       "en": "Negative Command",
+       "es": "Imperativo negativo",
+       "mood": "imperativo",
+       "key": "negativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "no comas",
+         "raw": "no comas"
+        },
+        {
+         "person": "Ud.",
+         "form": "no coma",
+         "raw": "no coma"
+        },
+        {
+         "person": "nosotros",
+         "form": "no comamos",
+         "raw": "no comamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "no comáis",
+         "raw": "no comáis"
+        },
+        {
+         "person": "Uds.",
+         "form": "no coman",
+         "raw": "no coman"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "voseo": [
+    {
+     "en": "Present",
+     "es": "Presente",
+     "tu": "comes",
+     "vos": "comés"
+    },
+    {
+     "en": "Affirmative Command",
+     "es": "Imperativo afirmativo",
+     "tu": "come",
+     "vos": "comé"
+    }
+   ]
+  },
+  {
+   "verb": "vivir",
+   "template": "viv:ir",
+   "stem": "viv",
+   "predicted": false,
+   "groups": [
+    {
+     "group": "Indicative",
+     "tenses": [
+      {
+       "en": "Present",
+       "es": "Presente",
+       "mood": "indicativo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "vivo",
+         "raw": "yo vivo"
+        },
+        {
+         "person": "tú",
+         "form": "vives",
+         "raw": "tú vives"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "vive",
+         "raw": "él vive"
+        },
+        {
+         "person": "nosotros",
+         "form": "vivimos",
+         "raw": "nosotros vivimos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivís",
+         "raw": "vosotros vivís"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "viven",
+         "raw": "ellos viven"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect",
+       "es": "Pretérito imperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-imperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "vivía",
+         "raw": "yo vivía"
+        },
+        {
+         "person": "tú",
+         "form": "vivías",
+         "raw": "tú vivías"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "vivía",
+         "raw": "él vivía"
+        },
+        {
+         "person": "nosotros",
+         "form": "vivíamos",
+         "raw": "nosotros vivíamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivíais",
+         "raw": "vosotros vivíais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivían",
+         "raw": "ellos vivían"
+        }
+       ]
+      },
+      {
+       "en": "Preterite",
+       "es": "Pretérito perfecto simple",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-simple",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viví",
+         "raw": "yo viví"
+        },
+        {
+         "person": "tú",
+         "form": "viviste",
+         "raw": "tú viviste"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "vivió",
+         "raw": "él vivió"
+        },
+        {
+         "person": "nosotros",
+         "form": "vivimos",
+         "raw": "nosotros vivimos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivisteis",
+         "raw": "vosotros vivisteis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivieron",
+         "raw": "ellos vivieron"
+        }
+       ]
+      },
+      {
+       "en": "Future",
+       "es": "Futuro",
+       "mood": "indicativo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viviré",
+         "raw": "yo viviré"
+        },
+        {
+         "person": "tú",
+         "form": "vivirás",
+         "raw": "tú vivirás"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "vivirá",
+         "raw": "él vivirá"
+        },
+        {
+         "person": "nosotros",
+         "form": "viviremos",
+         "raw": "nosotros viviremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "viviréis",
+         "raw": "vosotros viviréis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivirán",
+         "raw": "ellos vivirán"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect",
+       "es": "Pretérito perfecto compuesto",
+       "mood": "indicativo",
+       "key": "pretérito-perfecto-compuesto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "he vivido",
+         "raw": "yo he vivido"
+        },
+        {
+         "person": "tú",
+         "form": "has vivido",
+         "raw": "tú has vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "ha vivido",
+         "raw": "él ha vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hemos vivido",
+         "raw": "nosotros hemos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habéis vivido",
+         "raw": "vosotros habéis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "han vivido",
+         "raw": "ellos han vivido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect",
+       "es": "Pluscuamperfecto",
+       "mood": "indicativo",
+       "key": "pretérito-pluscuamperfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "había vivido",
+         "raw": "yo había vivido"
+        },
+        {
+         "person": "tú",
+         "form": "habías vivido",
+         "raw": "tú habías vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "había vivido",
+         "raw": "él había vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habíamos vivido",
+         "raw": "nosotros habíamos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habíais vivido",
+         "raw": "vosotros habíais vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habían vivido",
+         "raw": "ellos habían vivido"
+        }
+       ]
+      },
+      {
+       "en": "Preterite Perfect",
+       "es": "Pretérito anterior",
+       "mood": "indicativo",
+       "key": "pretérito-anterior",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hube vivido",
+         "raw": "yo hube vivido"
+        },
+        {
+         "person": "tú",
+         "form": "hubiste vivido",
+         "raw": "tú hubiste vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubo vivido",
+         "raw": "él hubo vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubimos vivido",
+         "raw": "nosotros hubimos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubisteis vivido",
+         "raw": "vosotros hubisteis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieron vivido",
+         "raw": "ellos hubieron vivido"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect",
+       "es": "Futuro perfecto",
+       "mood": "indicativo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habré vivido",
+         "raw": "yo habré vivido"
+        },
+        {
+         "person": "tú",
+         "form": "habrás vivido",
+         "raw": "tú habrás vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habrá vivido",
+         "raw": "él habrá vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habremos vivido",
+         "raw": "nosotros habremos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habréis vivido",
+         "raw": "vosotros habréis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrán vivido",
+         "raw": "ellos habrán vivido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Conditional",
+     "tenses": [
+      {
+       "en": "Conditional",
+       "es": "Condicional simple",
+       "mood": "condicional",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viviría",
+         "raw": "yo viviría"
+        },
+        {
+         "person": "tú",
+         "form": "vivirías",
+         "raw": "tú vivirías"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "viviría",
+         "raw": "él viviría"
+        },
+        {
+         "person": "nosotros",
+         "form": "viviríamos",
+         "raw": "nosotros viviríamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "viviríais",
+         "raw": "vosotros viviríais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivirían",
+         "raw": "ellos vivirían"
+        }
+       ]
+      },
+      {
+       "en": "Conditional Perfect",
+       "es": "Condicional perfecto",
+       "mood": "condicional",
+       "key": "perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "habría vivido",
+         "raw": "yo habría vivido"
+        },
+        {
+         "person": "tú",
+         "form": "habrías vivido",
+         "raw": "tú habrías vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "habría vivido",
+         "raw": "él habría vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "habríamos vivido",
+         "raw": "nosotros habríamos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "habríais vivido",
+         "raw": "vosotros habríais vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "habrían vivido",
+         "raw": "ellos habrían vivido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Subjunctive",
+     "tenses": [
+      {
+       "en": "Present Subjunctive",
+       "es": "Presente",
+       "mood": "subjuntivo",
+       "key": "presente",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viva",
+         "raw": "yo viva"
+        },
+        {
+         "person": "tú",
+         "form": "vivas",
+         "raw": "tú vivas"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "viva",
+         "raw": "él viva"
+        },
+        {
+         "person": "nosotros",
+         "form": "vivamos",
+         "raw": "nosotros vivamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "viváis",
+         "raw": "vosotros viváis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivan",
+         "raw": "ellos vivan"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-ra)",
+       "es": "Imperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viviera",
+         "raw": "yo viviera"
+        },
+        {
+         "person": "tú",
+         "form": "vivieras",
+         "raw": "tú vivieras"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "viviera",
+         "raw": "él viviera"
+        },
+        {
+         "person": "nosotros",
+         "form": "viviéramos",
+         "raw": "nosotros viviéramos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivierais",
+         "raw": "vosotros vivierais"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivieran",
+         "raw": "ellos vivieran"
+        }
+       ]
+      },
+      {
+       "en": "Imperfect Subj. (-se)",
+       "es": "Imperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-imperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viviese",
+         "raw": "yo viviese"
+        },
+        {
+         "person": "tú",
+         "form": "vivieses",
+         "raw": "tú vivieses"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "viviese",
+         "raw": "él viviese"
+        },
+        {
+         "person": "nosotros",
+         "form": "viviésemos",
+         "raw": "nosotros viviésemos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivieseis",
+         "raw": "vosotros vivieseis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "viviesen",
+         "raw": "ellos viviesen"
+        }
+       ]
+      },
+      {
+       "en": "Future Subjunctive",
+       "es": "Futuro",
+       "mood": "subjuntivo",
+       "key": "futuro",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "viviere",
+         "raw": "yo viviere"
+        },
+        {
+         "person": "tú",
+         "form": "vivieres",
+         "raw": "tú vivieres"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "viviere",
+         "raw": "él viviere"
+        },
+        {
+         "person": "nosotros",
+         "form": "viviéremos",
+         "raw": "nosotros viviéremos"
+        },
+        {
+         "person": "vosotros",
+         "form": "viviereis",
+         "raw": "vosotros viviereis"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "vivieren",
+         "raw": "ellos vivieren"
+        }
+       ]
+      },
+      {
+       "en": "Present Perfect Subj.",
+       "es": "Pretérito perfecto",
+       "mood": "subjuntivo",
+       "key": "pretérito-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "haya vivido",
+         "raw": "yo haya vivido"
+        },
+        {
+         "person": "tú",
+         "form": "hayas vivido",
+         "raw": "tú hayas vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "haya vivido",
+         "raw": "él haya vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hayamos vivido",
+         "raw": "nosotros hayamos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hayáis vivido",
+         "raw": "vosotros hayáis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hayan vivido",
+         "raw": "ellos hayan vivido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-ra)",
+       "es": "Pluscuamperfecto (-ra)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-1",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiera vivido",
+         "raw": "yo hubiera vivido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieras vivido",
+         "raw": "tú hubieras vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiera vivido",
+         "raw": "él hubiera vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéramos vivido",
+         "raw": "nosotros hubiéramos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubierais vivido",
+         "raw": "vosotros hubierais vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieran vivido",
+         "raw": "ellos hubieran vivido"
+        }
+       ]
+      },
+      {
+       "en": "Past Perfect Subj. (-se)",
+       "es": "Pluscuamperfecto (-se)",
+       "mood": "subjuntivo",
+       "key": "pretérito-pluscuamperfecto-2",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiese vivido",
+         "raw": "yo hubiese vivido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieses vivido",
+         "raw": "tú hubieses vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiese vivido",
+         "raw": "él hubiese vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiésemos vivido",
+         "raw": "nosotros hubiésemos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubieseis vivido",
+         "raw": "vosotros hubieseis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubiesen vivido",
+         "raw": "ellos hubiesen vivido"
+        }
+       ]
+      },
+      {
+       "en": "Future Perfect Subj.",
+       "es": "Futuro perfecto",
+       "mood": "subjuntivo",
+       "key": "futuro-perfecto",
+       "cells": [
+        {
+         "person": "yo",
+         "form": "hubiere vivido",
+         "raw": "yo hubiere vivido"
+        },
+        {
+         "person": "tú",
+         "form": "hubieres vivido",
+         "raw": "tú hubieres vivido"
+        },
+        {
+         "person": "él/ella/Ud.",
+         "form": "hubiere vivido",
+         "raw": "él hubiere vivido"
+        },
+        {
+         "person": "nosotros",
+         "form": "hubiéremos vivido",
+         "raw": "nosotros hubiéremos vivido"
+        },
+        {
+         "person": "vosotros",
+         "form": "hubiereis vivido",
+         "raw": "vosotros hubiereis vivido"
+        },
+        {
+         "person": "ellos/Uds.",
+         "form": "hubieren vivido",
+         "raw": "ellos hubieren vivido"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "group": "Imperative",
+     "tenses": [
+      {
+       "en": "Affirmative Command",
+       "es": "Imperativo afirmativo",
+       "mood": "imperativo",
+       "key": "afirmativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "vive",
+         "raw": "vive"
+        },
+        {
+         "person": "Ud.",
+         "form": "viva",
+         "raw": "viva"
+        },
+        {
+         "person": "nosotros",
+         "form": "vivamos",
+         "raw": "vivamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "vivid",
+         "raw": "vivid"
+        },
+        {
+         "person": "Uds.",
+         "form": "vivan",
+         "raw": "vivan"
+        }
+       ]
+      },
+      {
+       "en": "Negative Command",
+       "es": "Imperativo negativo",
+       "mood": "imperativo",
+       "key": "negativo",
+       "cells": [
+        {
+         "person": "tú",
+         "form": "no vivas",
+         "raw": "no vivas"
+        },
+        {
+         "person": "Ud.",
+         "form": "no viva",
+         "raw": "no viva"
+        },
+        {
+         "person": "nosotros",
+         "form": "no vivamos",
+         "raw": "no vivamos"
+        },
+        {
+         "person": "vosotros",
+         "form": "no viváis",
+         "raw": "no viváis"
+        },
+        {
+         "person": "Uds.",
+         "form": "no vivan",
+         "raw": "no vivan"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "voseo": [
+    {
+     "en": "Present",
+     "es": "Presente",
+     "tu": "vives",
+     "vos": "vivís"
+    },
+    {
+     "en": "Affirmative Command",
+     "es": "Imperativo afirmativo",
+     "tu": "vive",
+     "vos": "viví"
+    }
+   ]
+  }
+ ],
+ "tense_blocks_shown": 20,
+ "tense_count_claimed": 18
+}

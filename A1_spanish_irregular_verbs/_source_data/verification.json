@@ -1,0 +1,14 @@
+{
+ "verbs": 26,
+ "checked": 1092,
+ "mismatches": 1,
+ "problems": [
+  "haber | Present | slot 2 | verbecc='hay' wiktionary='ha'"
+ ],
+ "skipped": [
+  [
+   "traer",
+   "HTTP Error 429: Too Many Requests"
+  ]
+ ]
+}
